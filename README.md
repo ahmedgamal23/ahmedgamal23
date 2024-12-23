@@ -6,29 +6,6 @@ A **Software Developer** passionate about **Backend Development** using **ASP .N
 
 ## 🌟 Skills & Technologies:
 
-### Programming:
-C#, JavaScript, Python, Java, C++, Dart, HTML, CSS, Bootstrap, SQL Server
-
-### Frameworks:
-- ASP.NET Core API
-- ASP.NET Core MVC
-- Microsoft Identity
-- EntityFramework Core
-- JSON Web Token (JWT)
-
-### Principles:
-Clean Architecture, OOP, SOLID Principles, Design Patterns
-
-### Tools:
-Git, GitHub, Swagger, Postman, Terminal, VS Code, Visual Studio
-
-### Languages:
-Arabic, English
-
----
-
-## 🌟 Skills & Technologies:
-
 ### Programming Languages:
 - ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)  
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
@@ -49,7 +26,23 @@ Arabic, English
 - ![Visual Studio Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
 - ![Visual Studio](https://img.shields.io/badge/-Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)  
 
+### Frameworks:
+- ASP.NET Core API
+- ASP.NET Core MVC
+- Microsoft Identity
+- EntityFramework Core
+- JSON Web Token (JWT)
 
+### Principles:
+Clean Architecture, OOP, SOLID Principles, Design Patterns
+
+### Tools:
+Git, GitHub, Swagger, Postman, Terminal, VS Code, Visual Studio
+
+### Languages:
+Arabic, English
+
+--
 ## 📂 Notable Projects:
 
 | **Project Name**  | **Description**                                                                                                                                  | **Tech Stack**                                                                                                                                                                  |
