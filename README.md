@@ -63,5 +63,5 @@ Arabic, English
 
 ![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedgamal23&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedgamal23&layout=compact)  
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=ahmedgamal23&theme=dracula)  
+[![Ahmed's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=yourusername&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![Profile Visitors](https://komarev.com/ghpvc/?username=ahmedgamal23)
