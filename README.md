@@ -27,6 +27,29 @@ Arabic, English
 
 ---
 
+## 🌟 Skills & Technologies:
+
+### Programming Languages:
+- ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)  
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
+- ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)  
+- ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
+- ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)  
+
+### Frameworks & Libraries:
+- ![ASP.NET Core](https://img.shields.io/badge/-ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)  
+- ![Entity Framework](https://img.shields.io/badge/-Entity_Framework-512BD4?style=flat&logo=dotnet&logoColor=white)  
+- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)  
+
+### Tools & Platforms:
+- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
+- ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)  
+- ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)  
+- ![Visual Studio Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
+- ![Visual Studio](https://img.shields.io/badge/-Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)  
+
+
 ## 📂 Notable Projects:
 
 | **Project Name**  | **Description**                                                                                                                                  | **Tech Stack**                                                                                                                                                                  |
