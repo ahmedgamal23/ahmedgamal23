@@ -42,7 +42,6 @@ Git, GitHub, Swagger, Postman, Terminal, VS Code, Visual Studio
 ### Languages:
 Arabic, English
 
---
 ## 📂 Notable Projects:
 
 | **Project Name**  | **Description**                                                                                                                                  | **Tech Stack**                                                                                                                                                                  |
