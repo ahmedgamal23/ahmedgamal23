@@ -21,6 +21,7 @@ A **Software Developer** passionate about **Backend Development** using **ASP .N
 - Microsoft Identity
 - EntityFramework Core
 - JSON Web Token (JWT)
+- SignalR
 
 ### Principles:
 Clean Architecture, OOP, SOLID Principles, Design Patterns
