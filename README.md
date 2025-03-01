@@ -23,9 +23,10 @@ A **Software Developer** passionate about **Backend Development** using **ASP .N
 - EntityFramework Core
 - JSON Web Token (JWT)
 - SignalR
+- Strip Payment Gateway
 
 ### Principles:
-Clean Architecture, OOP, SOLID Principles, Design Patterns
+Clean Architecture, OOP, SOLID Principles, Repository Design Patterns, Dependancy Injection, Unit Of Work Design Patterns.
 
 ### Tools:
 Git, GitHub, Swagger, Postman, Terminal, VS Code, Visual Studio
@@ -37,6 +38,7 @@ Arabic, English
 
 | **Project Name**  | **Description**                                                                                                                                  | **Tech Stack**                                                                                                                                                                  |
 |--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| (EventPlatformWebApp)[https://github.com/ahmedgamal23/EventPlatformProjectMVC] | EventPlatformProjectMVC is a web-based event management platform built with ASP.NET Core MVC. It allows organizers to create, manage, and promote events while enabling participants to register and engage seamlessly. The platform features secure authentication, a responsive user interface, and payment integration for ticketed events.                                                    | ASP.NET Core 9 MVC, EF Core, SQL Server, Dependency Injection, LINQ, Repository Pattern, Unit Of Work Design Pattern, Strip Payment.    
 | [LibraryEcommerceWebApi](https://github.com/ahmedgamal23/LibraryEcommerceWebApi)   | E-commerce platform for library and book purchases with scalable, maintainable architecture.                                                | ASP.NET Core API 8, C#, EF Core 8, SQL Server, JWT, NUnit, MOQ, Dependency Injection, AutoMapper, Clean Architecture, Swagger                                               |
 | [TalabatWebApi](https://github.com/ahmedgamal23/TalabatWebAspDotNetCoreApi)       | API for a food delivery service, managing operations with robust design and RESTful endpoints.                                              | ASP.NET Core 8, EF Core, SQL Server, JWT Authentication, RESTful API Design, Dependency Injection, Repository Pattern, LINQ                                                 |
 | [Courses Website](https://github.com/ahmedgamal23/Courses-Website-Asp-.Net-Core-Mvc) | Educational platform with role-based functionalities for Admins, Instructors, and Users.                                                    | ASP.NET Core 8 MVC, EF Core, SQL Server, Dependency Injection, LINQ                                                                                                          |
