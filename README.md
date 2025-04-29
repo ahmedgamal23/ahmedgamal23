@@ -1,7 +1,43 @@
 # 👋 Hello, I'm Ahmed Gamal!
 
-A **Software Developer** passionate about **Backend Development** using **ASP .NET Core**.
+# 🛒 Furniture E-Commerce Website – Freelance Project
 
+This is my first completed freelance project: a full-stack **Furniture E-Commerce Website**, developed and deployed for a real client using **Monster Hosting**.
+
+![1](https://github.com/user-attachments/assets/2b710bf7-7d1f-467b-bf1f-f4f2a3646166)
+![2](https://github.com/user-attachments/assets/015f991c-c78d-42c3-a9c3-8328717aa5e4)
+![3](https://github.com/user-attachments/assets/919ee331-7b7a-4421-a36d-2aa267d794c0)
+
+## 🚀 Tech Stack
+- **Backend:** ASP.NET Core 9.0 (API & MVC)
+- **Frontend:** HTML, CSS, Bootstrap
+- **Database:** SQL Server
+- **ORM:** Entity Framework Core
+- **Authentication:** Microsoft Identity
+
+## 🧑‍💻 Client-Side Features
+- Home, About Us, Categories, Products, Contact, Login/Register
+- View products & categories
+- Add to cart and request orders
+- Secure payment integration with Kashier
+- Real-time chat with admin
+
+## 🛠️ Admin Dashboard
+- Analytics overview
+- Manage categories & products
+- Track orders (pending/successful)
+- View users
+- Chat with clients + message history
+
+## 📈 What I Gained
+- Full-stack dev experience
+- Payment integration
+- Hosting & domain deployment
+- Client delivery experience
+
+------
+
+A **Software Developer** passionate about **Backend Development** using **ASP .NET Core**.
 ---
 
 ## 🌟 Skills & Technologies:
