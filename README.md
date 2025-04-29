@@ -4,16 +4,11 @@
 
 This is my first completed freelance project: a full-stack **Furniture E-Commerce Website**, developed and deployed for a real client using **Monster Hosting**.
 
-![1](https://github.com/user-attachments/assets/2b710bf7-7d1f-467b-bf1f-f4f2a3646166)
-![2](https://github.com/user-attachments/assets/015f991c-c78d-42c3-a9c3-8328717aa5e4)
-![3](https://github.com/user-attachments/assets/919ee331-7b7a-4421-a36d-2aa267d794c0)
-
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <img src="https://github.com/user-attachments/assets/2b710bf7-7d1f-467b-bf1f-f4f2a3646166" alt="1" width="30%" />
   <img src="https://github.com/user-attachments/assets/015f991c-c78d-42c3-a9c3-8328717aa5e4" alt="2" width="30%" />
   <img src="https://github.com/user-attachments/assets/919ee331-7b7a-4421-a36d-2aa267d794c0" alt="3" width="30%" />
 </div>
-
 
 ## 🚀 Tech Stack
 - **Backend:** ASP.NET Core 9.0 (API & MVC)
